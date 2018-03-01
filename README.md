@@ -1,5 +1,5 @@
 # CubeStacle
-####__3D Cube Runner Game__
+#### __3D Cube Runner Game__
 
 
-######_Credits to Brackeys_
+###### _Credits to Brackeys_
